@@ -27,6 +27,8 @@ public class UserController {
     	System.out.println("--------------------");
     	userService.getUserById(1);
     	
+    	
+    	
         return "index";  
     }  
 }  
